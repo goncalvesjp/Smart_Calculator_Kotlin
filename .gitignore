@@ -1,0 +1,56 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Smart Calculator (Kotlin)/*
+!/Smart Calculator (Kotlin)/task/
+/Smart Calculator (Kotlin)/task/*
+!/Smart Calculator (Kotlin)/task/src
+!/Smart Calculator (Kotlin)/task/build
+
+# Project exclude paths
+/Smart Calculator (Kotlin)/task/build/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/Max/out/
+/Topics/BigInteger/Max/out/production/classes/
+/Topics/BigInteger/Theory/out/
+/Topics/BigInteger/Theory/out/production/classes/
+/Topics/Debugging techniques/Best practices/out/
+/Topics/Debugging techniques/Best practices/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Debugging techniques/Theory/out/
+/Topics/Debugging techniques/Theory/out/production/classes/
+/Topics/Nested and inner classes/A bow and a cat/out/
+/Topics/Nested and inner classes/A bow and a cat/out/production/classes/
+/Topics/Nested and inner classes/Busy internship/out/
+/Topics/Nested and inner classes/Busy internship/out/production/classes/
+/Topics/Nested and inner classes/Pumpkin and candle/out/
+/Topics/Nested and inner classes/Pumpkin and candle/out/production/classes/
+/Topics/Nested and inner classes/Theory/out/
+/Topics/Nested and inner classes/Theory/out/production/classes/
+/Topics/Nested and inner classes/Your vehicle/out/
+/Topics/Nested and inner classes/Your vehicle/out/production/classes/
+/Topics/Object declarations/Blocks in a box/out/
+/Topics/Object declarations/Blocks in a box/out/production/classes/
+/Topics/Object declarations/Board game basics  Game/out/
+/Topics/Object declarations/Board game basics  Game/out/production/classes/
+/Topics/Object declarations/Cell/out/
+/Topics/Object declarations/Cell/out/production/classes/
+/Topics/Object declarations/Keyword/out/
+/Topics/Object declarations/Keyword/out/production/classes/
+/Topics/Object declarations/Me/out/
+/Topics/Object declarations/Me/out/production/classes/
+/Topics/Object declarations/Singleton defined/out/
+/Topics/Object declarations/Singleton defined/out/production/classes/
+/Topics/Object declarations/Theory/out/
+/Topics/Object declarations/Theory/out/production/classes/
